@@ -1,4 +1,4 @@
-name: 云盘签到
+name: 云签
 
 on:
   push:
