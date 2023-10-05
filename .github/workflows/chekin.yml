@@ -19,17 +19,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: 打印ip地址
+      - name: 打印IP地址
         run: echo "My IP address is $(curl -s ifconfig.me)"
-      - name: Set up Python 3.8
+      - name: 安装 Python 3.8
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      - name: 安装环境
+      - name: 安装运行环境
         run: pip install -r requirements.txt
-      - name: 签到
+      - name: 开始自动签到
         run: |
-          (echo "[![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> <br> 签到时间 $(date "+%F %T")" && python3 ./main.py) | tee >(sed 's/^/- /' > index.md)
+          (echo "[![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：$(date "+%F %T")" && python3 ./main.py) | tee >(sed 's/^/- /' > STATUS.md)
         env:
           TYYP_USERNAME: ${{ secrets.CLOUD_USERNAME }}
           TYYP_PSW: ${{ secrets.CLOUD_PASSWORD }}
