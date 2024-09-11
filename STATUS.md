@@ -1,3 +1,19 @@
-- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2024-09-11 00:39:59
+- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2024-09-11 18:37:30
 - 开始执行帐号1
-- 页面已过期，刷新页面后重试
+- 登录成功
+- 已经签到过了，签到获得51M空间
+- 第1抽奖成功：获得天翼云盘50M空间
+- 第2抽奖失败，可能是次数不足了
+- 第3抽奖失败，可能是次数不足了
+- 开始执行帐号2
+- 登录成功
+- 已经签到过了，签到获得87M空间
+- 第1抽奖成功：获得天翼云盘50M空间
+- 第2抽奖失败，可能是次数不足了
+- 第3抽奖失败，可能是次数不足了
+- 开始执行帐号3
+- 登录成功
+- 已经签到过了，签到获得56M空间
+- 第1抽奖成功：获得天翼云盘50M空间
+- 第2抽奖失败，可能是次数不足了
+- 第3抽奖失败，可能是次数不足了
