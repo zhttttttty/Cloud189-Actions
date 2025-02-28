@@ -1,19 +1,4 @@
-- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-02-28 18:38:30
+- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-03-01 00:41:11
 - 开始执行帐号1
 - 登录成功
-- 已经签到过了，签到获得34M空间
-- 第1抽奖失败，可能是次数不足了
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
-- 开始执行帐号2
-- 登录成功
-- 已经签到过了，签到获得83M空间
-- 第1抽奖失败，可能是次数不足了
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
-- 开始执行帐号3
-- 登录成功
-- 已经签到过了，签到获得57M空间
-- 第1抽奖失败，可能是次数不足了
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
+- 已经签到过了，签到获得65M空间
